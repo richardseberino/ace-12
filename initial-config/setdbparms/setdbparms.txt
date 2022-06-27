@@ -1,0 +1,2 @@
+mq::qm01 app passw0rd
+DB2 db2inst1 xykjgs28
